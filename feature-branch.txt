@@ -1,0 +1,5 @@
+Feature Branch Content
+This file demonstrates working with remote branches.
+- Created in feature-branch
+- Will be pushed to remote
+- Shows branch management
