@@ -1,0 +1,2 @@
+New feature added locally
+This demonstrates pushing local changes.
